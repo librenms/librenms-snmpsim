@@ -1,4 +1,4 @@
-# librenms-snmpsim
+# LibreNMS Snmpsim helpers
 
 Be sure to install snmpsim first by:
   Making sure pip is installed
